@@ -1,0 +1,2 @@
+# google_calendar_api_project
+这是一个封装了google日历aAPI的服务， 通过GPT的ACTION可以调用， 可以用自然语言管理谷歌日历
